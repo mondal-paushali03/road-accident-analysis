@@ -72,3 +72,13 @@ Based on the insights, we recommend the following actions:
 ```bash
 git clone [https://github.com/yourusername/road-accident-analysis.git](https://github.com/yourusername/road-accident-analysis.git)
 open Road_Accident_Analysis.pbix in Power BI Desktop
+```
+---
+
+<a id="contact"></a>
+## ✉️ Contact
+For questions or analysis, contact Paushali Mondal at mondal.paushali384@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
